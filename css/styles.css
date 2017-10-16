@@ -1,0 +1,23 @@
+.main-nav {
+  background-color: darkblue;
+}
+.main-nav ul {
+  list-style-type: none;
+  margin: 0;
+}
+
+.main-nav li {
+  display: inline;
+  float: left;
+}
+
+.main-nav li a {
+  display: inline;
+  color: white;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+}
+
+.main-nav li a:hover {
+  background-color: grey;
+}
